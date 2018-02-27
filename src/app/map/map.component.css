@@ -1,0 +1,6 @@
+/* import the required JSAPI css */
+@import 'https://js.arcgis.com/3.23/esri/css/esri.css';
+
+#mapDiv {
+    height: 100%;
+}
